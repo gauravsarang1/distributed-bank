@@ -1,0 +1,6 @@
+{
+  "name": "Distributed Bank",
+  "description": "Minimal banking application with atomic account transfers, deposits, withdrawals, and ledger transaction history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
